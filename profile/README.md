@@ -35,7 +35,7 @@ We believe blockchain should be:
 
 > **Pre-execution intelligence for Stellar developers. Know what crosses before it does.**
 
-MERIDIAN is an AI-powered transaction intelligence engine that analyzes Stellar transactions **before** they reach the network.
+MERIDIAN is a transaction intelligence engine that analyzes Stellar transactions **before** they reach the network.
 
 Instead of simply simulating a transaction, MERIDIAN maps downstream contract dependencies, evaluates ecosystem impact, predicts potential failures, and generates an AI-powered risk report—all before execution.
 
